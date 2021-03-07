@@ -1,0 +1,27 @@
+{
+  "name": "tcauthz",
+  "version": "1.0.0",
+  "description": "natural language authorization system",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcort/tcauthz.git"
+  },
+  "keywords": [
+    "autz",
+    "authorization"
+  ],
+  "author": "Thomas Cort <linuxgeek@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcort/tcauthz/issues"
+  },
+  "homepage": "https://github.com/tcort/tcauthz#readme",
+  "dependencies": {
+    "pegjs": "^0.10.0",
+    "slang": "^0.3.0"
+  }
+}
